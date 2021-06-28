@@ -1,3 +1,4 @@
 # SprongBoot-tests
 * Tests for GET method using MockMvc and SpringExtension
-* Make mock of TodoService interface
+* Mock of TodoService interface
+* List interface test with mocks
